@@ -1,16 +1,9 @@
 Hi 👋 My name is Grigory Morozov
 ================================
 
-Begginer Data Scientist
------------------------
-
-Diving into the world of neural networks and AI
-
 * 🌍  I'm based in Kirov, Russia
 * ✉️  You can contact me at [gmorozich@gmail.com](mailto:gmorozich@gmail.com)
-* 🧠  I'm learning Fundamentals of machine learning
-* 🤝  I'm open to collaborating on ML, CV projects
-* ⚡  Sigma Skuf - Tyler Brekotkin
+
 
 ### Skills
 
